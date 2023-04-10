@@ -155,3 +155,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# testing folder
+testing/*
+testing
+models/*
+models/model.all_augmentations.pt
